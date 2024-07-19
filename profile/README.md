@@ -28,12 +28,12 @@ This Github's organization used to mananage all technical and documentation repo
 
 Technical repos:
 
-|   Repository  |   Kind    |
-|   ----------  |   ----    |
-| [prople/crypto](https://github.com/prople/crypto) | lib   |
-| [prople/did](https://github.com/prople/did) | workspace   |
-| [prople/jsonrpc](https://github.com/prople/jsonrpc) | lib   |
-| [prople/vessel](https://github.com/prople/jsonrpc) | workspace   |
+|   Repository  |   Kind    |   Desc    |
+|   ----------  |   ----    |   ----    |
+| [prople/crypto](https://github.com/prople/crypto) | lib   |   A cryptographic library contains multiple algorithms    |
+| [prople/did](https://github.com/prople/did) | workspace   |   A DID libraries designed specifically for the Prople    |
+| [prople/jsonrpc](https://github.com/prople/jsonrpc) | lib   | A JSON-RPC library  |
+| [prople/vessel](https://github.com/prople/jsonrpc) | workspace   | A library and daemon used as personal agent    | 
 
 ---
 
