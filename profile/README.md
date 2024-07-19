@@ -3,7 +3,7 @@
 `Prople` is a `Personalization Technology Platform` which help people to get their control back for their
 identities, social activities and their financial assets through the decentralized and P2P networks
 
-Prople aims to be an open source platforms that provides a foundation for three core domains:
+`Prople` aims to be an open source platforms that provides a foundation for three core domains:
 
 - `Decentralized Identity` 
 - `Decentralized Social Networks`
