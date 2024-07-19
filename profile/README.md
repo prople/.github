@@ -44,6 +44,6 @@ Technical repos:
 
 Documentation / Paper repos:
 
-|   Repository  |
-|   ----------  |
-| [prople/paper](https://github.com/prople/paper)   |
+|   Repository  |   Kind    |
+|   ----------  |   ----    |
+| [prople/paper](https://github.com/prople/paper)   |   Whitepaper  |
