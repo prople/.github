@@ -33,7 +33,7 @@ Technical repos:
 | [prople/crypto](https://github.com/prople/crypto) | lib   |   A cryptographic library contains multiple algorithms    |
 | [prople/did](https://github.com/prople/did) | workspace   |   A DID libraries designed specifically for the Prople    |
 | [prople/jsonrpc](https://github.com/prople/jsonrpc) | lib   | A JSON-RPC library  |
-| [prople/vessel](https://github.com/prople/jsonrpc) | workspace   | A library and daemon used as personal agent    | 
+| [prople/vessel](https://github.com/prople/vessel) | workspace   | A library and daemon used as personal agent    | 
 
 ---
 
