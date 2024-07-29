@@ -42,3 +42,11 @@ Documentation / Paper repos:
 |   Repository  |   Kind    |
 |   ----------  |   ----    |
 | [prople/paper](https://github.com/prople/paper)   |   Whitepaper  |
+
+---
+
+## The Community
+
+For now, all the community channel will through a single channcel of communication placed at Github: https://github.com/orgs/prople/discussions .
+
+You're free to join and discuss ideas about this concept here.
