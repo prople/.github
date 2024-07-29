@@ -1,4 +1,4 @@
-# Prople
+# Prople OSS (Open Source Software) Center
 
 `Prople` is a `Personalization Technology Platform` which help people to get their control back for their
 identities, social activities and their financial assets through the decentralized and P2P networks
