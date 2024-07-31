@@ -9,12 +9,12 @@ identities, social activities and their financial assets through the decentraliz
 - `Decentralized Social Networks`
 - `Decentralized Financial through CryptoCurrency Networks`
 
-For more knowledge please refer to our paper: [Prople Papers](https://github.com/prople/paper)
+Read our paper: [Prople Papers](https://github.com/prople/paper)
 
 ---
 
-> This project initiated by [rstlix0x0](https://github.com/rstlix0x0) as the author, which become a single maintainer
-and contributor for all works, if you're interesting to discuss or even contribute to help this project, please contact him through
+> This project initiated by [rstlix0x0](https://github.com/rstlix0x0) as the author and founder, which become a single maintainer
+and contributor for all works, if you're interesting to discuss or even want contribute to help this project, please contact him through
 the Github or email him: [rstlix.dev[at]gmail.com]. Since this project is open and for the public goods, all contributions
 are welcome.
 
