@@ -43,7 +43,7 @@ Documentation / Paper repos:
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
 > This project initiated by [rstlix0x0](https://github.com/rstlix0x0) as the author and founder, which become a single maintainer
-and contributor for all works, if you're interesting to discuss something about this project, you can use our [Discussion Pages](https://github.com/orgs/prople/discussions) to talk about it. 
+and contributor for all works, if you're interesting to discuss something about this project, you can use our [Discussion Pages](https://github.com/orgs/prople/discussions) to talk about it. All contributions are welcome. 
 
 ---
 
