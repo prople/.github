@@ -23,8 +23,8 @@ Technical repos:
 
 |   Repository  |   Kind    |   Desc    | License |
 |   ----------  |   ----    |   ----    | ------- |
-| [prople/crypto](https://github.com/prople/crypto) | lib   |   A cryptographic library contains multiple algorithms    | [GPL-3.0 LICENSE(https://github.com/prople/crypto/blob/main/LICENSE)]
-| [prople/did](https://github.com/prople/did) | workspace   |   A DID libraries designed specifically for the Prople    | [GPL-3.0 LICENSE(https://github.com/prople/did/blob/main/LICENSE)] 
+| [prople/crypto](https://github.com/prople/crypto) | lib   |   A cryptographic library contains multiple algorithms    | [GPL-3.0 LICENSE](https://github.com/prople/crypto/blob/main/LICENSE)
+| [prople/did](https://github.com/prople/did) | workspace   |   A DID libraries designed specifically for the Prople    | [GPL-3.0 LICENSE](https://github.com/prople/did/blob/main/LICENSE)
 | [prople/jsonrpc](https://github.com/prople/jsonrpc) | lib   | A JSON-RPC library  | [GPL-3.0 LICENSE](https://github.com/prople/jsonrpc/blob/main/LICENSE)
 | [prople/vessel](https://github.com/prople/vessel) | workspace   | A library and daemon used as personal agent    | [AGPL-3.0 LICENSE](https://github.com/prople/vessel/blob/main/LICENSE) 
 
