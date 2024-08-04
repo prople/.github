@@ -47,6 +47,8 @@ Documentation / Paper repos:
 
 ## The Community
 
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
+
 For now, all the community channel will through a single channcel of communication placed at Github: https://github.com/orgs/prople/discussions .
 
 You're free to join and discuss ideas about this concept here.
