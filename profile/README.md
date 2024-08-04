@@ -50,3 +50,7 @@ Documentation / Paper repos:
 For now, all the community channel will through a single channcel of communication placed at Github: https://github.com/orgs/prople/discussions .
 
 You're free to join and discuss ideas about this concept here.
+
+### Official Publication
+
+[Prople at Medium](https://medium.com/prople)
